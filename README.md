@@ -11,6 +11,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 5 | [148,045 星、月下载 1.70 亿：LangChain 三年把自己写的高层抽象废掉两轮，1.0 留下的那个还搬了两次家](https://javis.im/analysis/langchain/)（2026-10-19） | https://javis.im/analysis/langchain/ ｜ [posts/langchain.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/langchain.md) |
 | 6 | [111,751 星只是副产品：YC 最新批次 55% 用 Supabase、周下载 1,990 万，官方口径 70% 的新数据库由 AI agent 创建](https://javis.im/analysis/supabase/)（2026-10-19） | https://javis.im/analysis/supabase/ ｜ [posts/supabase.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/supabase.md) |
 | 7 | [773 字节脚本、24 小时销毁的盐、10 个人服务 21,000 家付费：审计 Plausible 的「免横幅」承诺](https://javis.im/analysis/plausible/)（2026-10-19） | https://javis.im/analysis/plausible/ ｜ [posts/plausible.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/plausible.md) |
+| 8 | [被 GitHub 关停的 Atom 团队回来了：Zed 91,923 星、Stack Overflow 2026 官方口径 11.4%，而它刚把自己仓库的 PR 关掉](https://javis.im/analysis/zed/)（2026-10-20） | https://javis.im/analysis/zed/ ｜ [posts/zed.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/zed.md) |
 
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
