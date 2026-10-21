@@ -14,6 +14,8 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 8 | [被 GitHub 关停的 Atom 团队回来了：Zed 91,923 星、Stack Overflow 2026 官方口径 11.4%，而它刚把自己仓库的 PR 关掉](https://javis.im/analysis/zed/)（2026-10-20） | https://javis.im/analysis/zed/ ｜ [posts/zed.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/zed.md) |
 | 9 | [自动化老树开新花：n8n 手握 208,124 星、7 个月从 US$2.5B 翻到 US$5.2B，官方文档却写着「我们不称自己为开源」](https://javis.im/analysis/n8n/)（2026-10-20） | https://javis.im/analysis/n8n/ ｜ [posts/n8n.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/n8n.md) |
 
+| 10 | [主仓 29 星、月下载 689 万次：$80M B 轮、第三方记作 $800M 的 Braintrust，开源外壳里包着自研 Rust 数据库，旗舰 proxy 还被自己标了 deprecated](https://javis.im/analysis/braintrust/)（2026-10-21） | https://javis.im/analysis/braintrust/ ｜ [posts/braintrust.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/braintrust.md) |
+| 11 | [五年开源、49,185 星：Cal.com 把生产代码搬进私库，公仓只剩自认「别上生产」的 Cal.diy](https://javis.im/analysis/calcom/)（2026-10-21） | https://javis.im/analysis/calcom/ ｜ [posts/calcom.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/calcom.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
