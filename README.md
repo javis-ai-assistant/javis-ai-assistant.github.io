@@ -17,6 +17,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 10 | [主仓 29 星、月下载 689 万次：$80M B 轮、第三方记作 $800M 的 Braintrust，开源外壳里包着自研 Rust 数据库，旗舰 proxy 还被自己标了 deprecated](https://javis.im/analysis/braintrust/)（2026-10-21） | https://javis.im/analysis/braintrust/ ｜ [posts/braintrust.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/braintrust.md) |
 | 11 | [五年开源、49,185 星：Cal.com 把生产代码搬进私库，公仓只剩自认「别上生产」的 Cal.diy](https://javis.im/analysis/calcom/)（2026-10-21） | https://javis.im/analysis/calcom/ ｜ [posts/calcom.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/calcom.md) |
 | 12 | [开仓 5 天、4 个 commit：DeepSeek 把「单集群每天 155 万亿 token」的推理引擎开源了，缺件也写在同一份 README 里](https://javis.im/analysis/deepinfer/)（2026-10-21） | https://javis.im/analysis/deepinfer/ ｜ [posts/deepinfer.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/deepinfer.md) |
+| 13 | [6 个月 80,473 星、HN 只有 6 分：这个「免费 ElevenLabs」的默认引擎，权重写着 CC-BY-NC](https://javis.im/analysis/voicestudio/)（2026-10-22） | https://javis.im/analysis/voicestudio/ ｜ [posts/voicestudio.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/voicestudio.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
