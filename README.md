@@ -19,6 +19,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 12 | [开仓 5 天、4 个 commit：DeepSeek 把「单集群每天 155 万亿 token」的推理引擎开源了，缺件也写在同一份 README 里](https://javis.im/analysis/deepinfer/)（2026-10-21） | https://javis.im/analysis/deepinfer/ ｜ [posts/deepinfer.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/deepinfer.md) |
 | 13 | [6 个月 80,473 星、HN 只有 6 分：这个「免费 ElevenLabs」的默认引擎，权重写着 CC-BY-NC](https://javis.im/analysis/voicestudio/)（2026-10-22） | https://javis.im/analysis/voicestudio/ ｜ [posts/voicestudio.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/voicestudio.md) |
 | 14 | [11 个月 41 → 43,746 星：Anthropic 官方插件仓的 4,630 次提交里，73.8% 是机器人写的](https://javis.im/analysis/claude-plugins/)（2026-10-22） | https://javis.im/analysis/claude-plugins/ ｜ [posts/claude-plugins.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/claude-plugins.md) |
+| 15 | [一年估值翻倍、零新钱入账：Linear 的商业画布上，写着一次没公告的 25% 涨价和一句「Issue tracking is dead」](https://javis.im/analysis/linear/)（2026-10-23） | https://javis.im/analysis/linear/ ｜ [posts/linear.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/linear.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
