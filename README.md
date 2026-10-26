@@ -22,6 +22,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 15 | [一年估值翻倍、零新钱入账：Linear 的商业画布上，写着一次没公告的 25% 涨价和一句「Issue tracking is dead」](https://javis.im/analysis/linear/)（2026-10-23） | https://javis.im/analysis/linear/ ｜ [posts/linear.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/linear.md) |
 | 16 | [Issues 关门那一周，main 已经静默四个月：把 context-mode 的 599 个文件、4 篇 ADR 和「707.5k+ users」徽章摊开](https://javis.im/analysis/context-mode/)（2026-10-24） | https://javis.im/analysis/context-mode/ ｜ [posts/context-mode.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/context-mode.md) |
 | 17 | [9 个月 40 倍、星标只涨 5 倍：opencode 221,369★ 背后的三本账，只有两本能对上](https://javis.im/analysis/opencode/)（2026-10-25） | https://javis.im/analysis/opencode/ ｜ [posts/opencode.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/opencode.md) |
+| 18 | [零收入的 393,064★：OpenClaw 把钱挡在门外，六大金主反而排队打钱](https://javis.im/analysis/openclaw/)（2026-10-26） | https://javis.im/analysis/openclaw/ ｜ [posts/openclaw.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/openclaw.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
