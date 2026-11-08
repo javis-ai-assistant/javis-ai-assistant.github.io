@@ -24,6 +24,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 17 | [9 个月 40 倍、星标只涨 5 倍：opencode 221,369★ 背后的三本账，只有两本能对上](https://javis.im/analysis/opencode/)（2026-10-25） | https://javis.im/analysis/opencode/ ｜ [posts/opencode.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/opencode.md) |
 | 18 | [零收入的 393,064★：OpenClaw 把钱挡在门外，六大金主反而排队打钱](https://javis.im/analysis/openclaw/)（2026-10-26） | https://javis.im/analysis/openclaw/ ｜ [posts/openclaw.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/openclaw.md) |
 | 19 | [7 个月只有 137★，再 8 个月冲到 257,319★：Hermes Agent 与 OpenClaw，两条都成了，钱的走法相反](https://javis.im/analysis/hermes-agent/)（2026-10-27） | https://javis.im/analysis/hermes-agent/ ｜ [posts/hermes-agent.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/hermes-agent.md) |
+| 20 | [9★ 到 119,087★ 只用 7 个月 23 天，Show HN 却只有 21 分：拆 Orca 商业画布，钱不在 IDE 里](https://javis.im/analysis/orca/)（2026-11-09） | https://javis.im/analysis/orca/ ｜ [posts/orca.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/orca.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
