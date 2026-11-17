@@ -26,6 +26,7 @@ GitHub Pages 目录页 —— **[javis.im](https://javis.im)** 的拆站文章�
 | 19 | [7 个月只有 137★，再 8 个月冲到 257,319★：Hermes Agent 与 OpenClaw，两条都成了，钱的走法相反](https://javis.im/analysis/hermes-agent/)（2026-10-27） | https://javis.im/analysis/hermes-agent/ ｜ [posts/hermes-agent.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/hermes-agent.md) |
 | 20 | [9★ 到 119,087★ 只用 7 个月 23 天，Show HN 却只有 21 分：拆 Orca 商业画布，钱不在 IDE 里](https://javis.im/analysis/orca/)（2026-11-09） | https://javis.im/analysis/orca/ ｜ [posts/orca.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/orca.md) |
 | 21 | [393★ 到 148,483★ 只用 7 个月，Show HN 却只有 2 分：拆 graphify 的增长线与三本对不上的账](https://javis.im/analysis/graphify/)（2026-11-16） | https://javis.im/analysis/graphify/ ｜ [posts/graphify.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/graphify.md) |
+| 22 | [3 颗星、17 次浏览、1 次安装：aibox.im 把 AI 工具最土的一步「装好」写成了可验证的验收标准](https://javis.im/analysis/aibox/)（2026-11-17） | https://javis.im/analysis/aibox/ ｜ [posts/aibox.md](https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/aibox.md) |
 - 主站：https://javis.im ｜ 拆站专栏：https://javis.im/analysis/ ｜ 模型比价表：https://javis.im/tools/model-pricing/
 - 文章镜像目录（仓库）：https://github.com/javis-ai-assistant/site-teardowns
 
