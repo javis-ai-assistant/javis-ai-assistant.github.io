@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Site Teardowns 目录 — javis.im</title>
-<meta name="description" content="javis.im 拆站文章目录：双语、逐条取证的深度站点拆解，共 21 篇。">
+<meta name="description" content="javis.im 拆站文章目录：双语、逐条取证的深度站点拆解，共 22 篇。">
 <meta property="og:title" content="Site Teardowns 目录 — javis.im">
 <meta property="og:description" content="javis.im 拆站文章目录：双语、逐条取证的深度站点拆解。">
 <meta property="og:type" content="website">
@@ -204,6 +204,14 @@
         <h2><a href="https://javis.im/analysis/graphify/" target="_blank" rel="noopener">393★ 到 148,483★ 只用 7 个月，Show HN 却只有 2 分：拆 graphify 的增长线与三本对不上的账</a></h2>
         <p>增长拆解：一条 Karpathy 推文 5 天带进 2 万星标，7 个月 13 天 393★→148,483★（Wayback 14 时点 + API 双口径），首月日均约 1,400★、全程无平台期。但社区账在关：PR 合并率 5.0%（2,803 提仅 141 合），10-11 月六周半 811 提仅 6 合（0.74%）、watchers 425=0.29%、HN 官方自发帖只有 2 分；token 账三口径并列（官方 71.5x / 第三方 360 试验 no clear gain / issue #985 用户实测同或更省）；钱线四档 + OSS 免费边界，SOC 2 Audit in progress。评分卡复核 91/100，53 条来源、取证包 146 文件。</p>
         <p class="meta"><time>2026-11-16</time> · <a href="https://javis.im/analysis/graphify/" target="_blank" rel="noopener">在线阅读（中文）</a> · <a href="https://javis.im/analysis/graphify/index-en" target="_blank" rel="noopener">English</a> · <a href="https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/graphify.md" target="_blank" rel="noopener">posts/graphify.md</a></p>
+      </div>
+    </article>
+    <article class="card">
+      <a class="thumb" href="https://javis.im/analysis/aibox/" target="_blank" rel="noopener"><img src="https://javis.im/analysis/aibox/img/og.png" alt="aibox teardown cover" loading="lazy" width="1200" height="630"></a>
+      <div class="body">
+        <h2><a href="https://javis.im/analysis/aibox/" target="_blank" rel="noopener">3 颗星、17 次浏览、1 次安装：aibox.im 把 AI 工具最土的一步「装好」写成了可验证的验收标准</a></h2>
+        <p>三框架合并：上线 8 天、3 颗星的 AI 桌面工具安装层项目。真值可读——/api/stats 显示 views 合计 17、installs 合计 1，Release 资产各下载 2 次；目录 21 应用全为第三方上游。工程侧把「装到能用」做成可执行验收：包级 sha256 强制、每包必须 probe 验证、路径禁出用户目录、注册源须双源交叉校验，每日探针把漂移分 A/B 两类，B 类永不自动改（视为篡改信号）。口径审计：SHA-256 与 GitHub asset digest 逐字符一致；三仓均无 LICENSE 而站内称 open source。风险：未签名便携 exe、key 明文落盘、Release 承载可执行附件单通道、单人维护。评分卡复核 88/100，35 条来源、取证包 54 文件。</p>
+        <p class="meta"><time>2026-11-17</time> · <a href="https://javis.im/analysis/aibox/" target="_blank" rel="noopener">在线阅读（中文）</a> · <a href="https://javis.im/analysis/aibox/index-en" target="_blank" rel="noopener">English</a> · <a href="https://github.com/javis-ai-assistant/site-teardowns/blob/main/posts/aibox.md" target="_blank" rel="noopener">posts/aibox.md</a></p>
       </div>
     </article>
     </main>
